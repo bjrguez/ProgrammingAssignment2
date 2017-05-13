@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Hi, Brenda was here!
 
 ## Creates a special "vector", which is really a list containing a function to:
 ## set the value of the matrix
